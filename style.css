@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: #87CEFA ;
+    border: 5px solid #87CEFA;
+    padding: 10px;
+
+}
+
+header img {
+    padding: 5px;
+}
+header b {
+    color:#0000FF;
+}
+header a {
+    border: 1px solid white ;
+    background-color: #87CEFA;
+    color: blue;
+    padding: 5px;  
+    text-decoration: none; 
+}
+
+h1 {
+    background-color:#87CEFA ;
+    text-align: center;
+    color: 	#00008B;
+}
+
+footer {
+    background-color:#FF6347 ;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    border: 5px solid white;
+}
+nav {
+    background-color: white;
+    border: 2px solid #87CEFA;
+    padding: 10px;
+}
+nav a {
+    color: #00008B ;
+    border: 10px solid white;
+    text-align: center;
+    text-decoration: none;
+}
+.icon {
+    border: 5px solid #0000FF;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+}
+
+h2 {
+    color: #0040ff;
+    font-size: 40px ;
+}
+
+main {
+    font-size: 20px;
+}
+
+.silka {
+    color: rgb(0, 3, 175);
+    border: 4px solid rgb(0, 3, 175);
+    padding: 6px;
+    text-decoration: none;
+}
